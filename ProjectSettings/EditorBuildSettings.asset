@@ -8,15 +8,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/menu.unity
     guid: cc340e4e2c5b84dbb973a44677615c4d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Quest.unity
     guid: 9aa306a0395f840fb90249f6fd46a0ec
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ZPT.unity
     guid: 0f1f3274d161f4745b21846205ef5cb8
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 84197d014d5cc467f90921fb1b946624
   - enabled: 1
     path: Assets/Stone.unity
     guid: dd9ae1789805c49b69d59cfcf3f00569
@@ -32,6 +35,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Stone2.unity
     guid: 3a6b767e6c5c042c2a89f4cf3f1e8b0d
+  - enabled: 1
+    path: Assets/Story.unity
+    guid: b2ea0283a62d54fba9dbc67315478238
+  - enabled: 1
+    path: Assets/D.unity
+    guid: 31b6b74f23a604cccb79110394484627
+  - enabled: 1
+    path: Assets/StartGameField2.unity
+    guid: 52aea108d9b764f7fa9c477dee283836
+  - enabled: 1
+    path: Assets/Forest.unity
+    guid: 3b13e40c9ef4b4c12916388d17737ba0
+  - enabled: 1
+    path: Assets/unity sth/SC/task_system/new.unity
+    guid: abcad21c40875524c8d91dacddd0d4b9
+  - enabled: 1
+    path: Assets/ExitField.unity
+    guid: 28c788a6e29fb4fa6b6885d84049ec6e
+  - enabled: 1
+    path: Assets/Final.unity
+    guid: 5566a9e2d92214b45b2843c38fc7fded
+  - enabled: 1
+    path: Assets/sounddd/soundsettings/Sound.unity
+    guid: e5bcde1efb94ba14da224a7fec0d8a0e
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

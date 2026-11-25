@@ -115,7 +115,7 @@ namespace Assets.Welcome
             }
             else
             {
-                Debug.Log("Неверная комбинация!");
+                Debug.Log("Телефона, телефона, Чукча кушать хочет!");
 
                 if (backgroundImage != null)
                 {
