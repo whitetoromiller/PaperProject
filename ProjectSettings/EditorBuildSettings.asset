@@ -18,46 +18,46 @@ EditorBuildSettings:
     path: Assets/Scenes/ZPT.unity
     guid: 0f1f3274d161f4745b21846205ef5cb8
   - enabled: 1
-    path: Assets/Menu.unity
+    path: Assets/Scenes/Menu.unity
     guid: 84197d014d5cc467f90921fb1b946624
   - enabled: 1
-    path: Assets/Stone.unity
+    path: Assets/Scenes/Stone.unity
     guid: dd9ae1789805c49b69d59cfcf3f00569
   - enabled: 1
-    path: Assets/StartGameField.unity
+    path: Assets/Scenes/StartGameField.unity
     guid: 276248abeaa3e41069e96be3581cd6fa
   - enabled: 1
-    path: Assets/MiniGame1.unity
+    path: Assets/Scenes/MiniGame1.unity
     guid: 781262e3acb144036ab2415e539ead74
   - enabled: 1
-    path: Assets/Start1.unity
+    path: Assets/Scenes/Start1.unity
     guid: 20c80f5377abb426ba7e8b6fb8cd51e8
   - enabled: 1
-    path: Assets/Stone2.unity
+    path: Assets/Scenes/Stone2.unity
     guid: 3a6b767e6c5c042c2a89f4cf3f1e8b0d
   - enabled: 1
-    path: Assets/Story.unity
+    path: Assets/Scenes/Story.unity
     guid: b2ea0283a62d54fba9dbc67315478238
   - enabled: 1
-    path: Assets/D.unity
+    path: Assets/Scenes/D.unity
     guid: 31b6b74f23a604cccb79110394484627
   - enabled: 1
-    path: Assets/StartGameField2.unity
+    path: Assets/Scenes/StartGameField2.unity
     guid: 52aea108d9b764f7fa9c477dee283836
   - enabled: 1
-    path: Assets/Forest.unity
+    path: Assets/Scenes/Forest.unity
     guid: 3b13e40c9ef4b4c12916388d17737ba0
   - enabled: 1
     path: Assets/unity sth/SC/task_system/new.unity
     guid: abcad21c40875524c8d91dacddd0d4b9
   - enabled: 1
-    path: Assets/ExitField.unity
+    path: Assets/Scenes/ExitField.unity
     guid: 28c788a6e29fb4fa6b6885d84049ec6e
   - enabled: 1
-    path: Assets/Final.unity
+    path: Assets/Scenes/Final.unity
     guid: 5566a9e2d92214b45b2843c38fc7fded
   - enabled: 1
-    path: Assets/sounddd/soundsettings/Sound.unity
+    path: Assets/Scenes/Sound.unity
     guid: e5bcde1efb94ba14da224a7fec0d8a0e
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
